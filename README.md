@@ -21,8 +21,6 @@ I'm a BCA graduate passionate about web development and building useful web appl
   
 🚀 My Projects
   🧮 Calculator Project
-  📚 Online Book Delivery Store
-  📅 MeetBook – Appointment Booking System
   
 📚 Currently Learning
   • DSA
